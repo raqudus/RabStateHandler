@@ -1,0 +1,5 @@
+UeRc:5;UeRc:6;Channel switch;Interactive PS (64/128)
+UeRc:5;UeRc:10;Establish;Conversational CS Speech (12.2/12.2)
+UeRc:5;UeRc:18;Channel switch;Interactive PS (128/128)
+UeRc:5;UeRc:26;Establish;Interactive PS (64/64)
+UeRc:5;UeRc:0;Release;Interactive PS (64/64)
